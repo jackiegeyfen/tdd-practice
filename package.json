@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "mocha",
-    "test-with-json": "mocha --reporter json"
+    "test-with-json": "mocha --reporter json",
+    "01": "mocha test/reverse-string-spec.js"
   },
   "keywords": [],
   "author": "",
